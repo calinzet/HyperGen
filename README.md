@@ -1,0 +1,2 @@
+# HyperGen
+Static Site Generator
